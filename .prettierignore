@@ -1,0 +1,11 @@
+# Generated or installed
+dist/
+site-dist/
+coverage/
+.pw-browsers/
+playwright-report/
+test-results/
+package-lock.json
+
+# Prose is wrapped and tables are laid out by hand
+*.md
