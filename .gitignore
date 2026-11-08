@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+site-dist/
+coverage/
+.pw-browsers/
+playwright-report/
+test-results/
+*.tgz
+.env
